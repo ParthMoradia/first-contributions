@@ -223,6 +223,7 @@
 - [Maria Vilela]
 - [vansh]
 - [Luis Octávio](https://github.com/Big-Plato)
+[Parth]
   [Shailesh Sharma](https://github.com/Chinipanda)
 - [Saksham Gupta](https://github.com/sakshamgupta123)
 - [Eduardo Chaparro Huaman](https://github.com/Eduardo-v01)
